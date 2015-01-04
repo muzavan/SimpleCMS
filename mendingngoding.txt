@@ -1,0 +1,8 @@
+Database telah dibuat. Password untuk database u160485837_bdg user u160485837_bdg  menjadi connection
+mysql_connect('mysql.idhostinger.com','u160485837_bdg','connection');
+		mysql_select_db('u160485837_bdg');
+
+		FTP
+		ftp.mendingngoding.hol.es 
+u160485837
+		mendingngodingaja
